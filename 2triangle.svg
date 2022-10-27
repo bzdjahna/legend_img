@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="svg.css" type="text/css"?><svg
+   id="svg2"
+   sodipodi:docname="2triangle.svg"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   viewBox="-0.8 -0.8 31.906251 27.65625"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview22"
+     fit-margin-left="0"
+     inkscape:zoom="22.505954"
+     borderopacity="1"
+     inkscape:current-layer="svg2"
+     inkscape:cx="12.39672"
+     inkscape:cy="16.240147"
+     inkscape:window-maximized="1"
+     showgrid="false"
+     fit-margin-right="0"
+     bordercolor="#666666"
+     inkscape:window-x="-9"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:window-y="-9"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     gridtolerance="10"
+     inkscape:window-height="1001"
+     fit-margin-top="0"
+     inkscape:pagecheckerboard="0" />
+  <g
+     id="g4"
+     transform="matrix(1 0 0 -1 .91875 25.856)">
+    <g
+       id="g6">
+      <g
+         id="g8"
+         style="stroke:#000000">
+        <g
+           id="g10"
+           style="fill:#000000">
+          <g
+             id="g12"
+             style="stroke-width:.4pt">
+            <g
+               id="g14">
+              <g
+                 id="g16">
+                <g
+                   id="g18"
+                   style="stroke-width:1.6pt">
+                  <path
+                     id="path20"
+                     style="fill:#0000ff;stroke:#0000ff;stroke-width:2.133;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                     inkscape:connector-curvature="0"
+                     d="M 0.35166,0.19558722 H 27.968044 L 14.159366,24.164304 Z" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>2011-03-14T17:25:32</dc:date>
+        <dc:description>Un triangle équilatéral, cotés noirs.\n\nA black equilateral triangle.</dc:description>
+        <dc:source>https://openclipart.org/detail/127483/triangle-équilatéral-by-la-raison</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>La Raison</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>equilateral</rdf:li>
+            <rdf:li>geometry</rdf:li>
+            <rdf:li>géometrie</rdf:li>
+            <rdf:li>polygone</rdf:li>
+            <rdf:li>triangle</rdf:li>
+            <rdf:li>équilatéral</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
